@@ -1,0 +1,18 @@
+{
+    "C_Cpp.default.cppStandard": "c++14",
+    "C_Cpp.default.cStandard": "c17",
+    "files.associations": {
+        "xutility": "cpp",
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "iosfwd": "cpp",
+        "set": "cpp"
+    },
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    }
+}
